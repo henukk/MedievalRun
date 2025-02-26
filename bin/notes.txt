@@ -1,0 +1,5 @@
+Windows x64
+Linux
+Mac x64
+
+*Linux and mac not tested
