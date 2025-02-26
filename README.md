@@ -12,7 +12,8 @@ In this project, we have recreated the essence of Temple Run with a fresh design
 - **Procedural world generation** 🏞️ (ensuring an unpredictable and dynamic experience)
 - **Endless running mechanics** 🏃‍♂️
 - **Enemies chasing the player** 👹
-- **Three different power-ups** ⚡
+- **Two different power-ups** ⚡
+- **God mode, automatic playing** ⚡
 - **Destructible and non-destructible obstacles** 🏚️
 - **Jump-over obstacles and roll-under obstacles** ⚠️
 
@@ -44,7 +45,7 @@ This game was developed in **Unity** and designed to replicate the classic Templ
 
 ## 📺 Demo
 Watch a **1-minute gameplay demo**:  
-[![Demo Video](./assets/demo_thumbnail.jpg)](./Demo.avi)  
+[![Demo Video](./img/video.png)](./Demo.avi)  
 (*Click the image to play the video*)
 
 ## 👥 Credits
